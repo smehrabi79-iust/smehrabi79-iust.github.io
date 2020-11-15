@@ -14,5 +14,5 @@ comments: false
 * [Useful Courses](https://www.coursera.org/)
 * [Useful Website](https://www.wolframalpha.com/)
 * [My home city](https://fa.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-* [My university](http://iust.ac.ir)
+* [My university](http://www.iust.ac.ir/)
 
