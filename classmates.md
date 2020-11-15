@@ -9,21 +9,21 @@ comments: true
 ---
 
 ### همکلاسی ها
-* [شهرزاد آذری آزاد](shahrzadazari.github.io)
-* [محمد مهدی جاوید](MohammadMahdiJavid.github.io)
-* [امیرحسین سماوات](amirsmvt.github.io)
-* [فاطمه جلالوند](fjalalvand.github.io)
+* [شهرزاد آذری آزاد](https://shahrzadazari.github.io)
+* [محمد مهدی جاوید](https://MohammadMahdiJavid.github.io)
+* [امیرحسین سماوات](https://amirsmvt.github.io)
+* [فاطمه جلالوند](https://fjalalvand.github.io)
 * بیان دیوانی آذر
 * باوان دیوانی آذر
-* [زهرا امیری](zahra-amiri.github.io)
-* [پریا فصاحت](fasaahat.github.io)
+* [زهرا امیری](https://zahra-amiri.github.io)
+* [پریا فصاحت](https://fasaahat.github.io)
 * امیر مسعود گلستانه
-* [بابک بهکام کیا](babakbehkamkia.github.io)
+* [بابک بهکام کیا](https://babakbehkamkia.github.io)
 * علی رهنماعلمداری
 * بنفشه قلی نژاد
 * یاسمین مدنی شمامی
-* [محمدجواد مهدی تبار](mjavadmt.github.io)
-* [مهدیه نادری](mnaderi98.github.io)
+* [محمدجواد مهدی تبار](https://mjavadmt.github.io)
+* [مهدیه نادری](https://mnaderi98.github.io)
 * نیکی نزاکتی
 
 
