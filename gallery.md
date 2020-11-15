@@ -5,7 +5,7 @@ permalink: /gallery/
 title: Gallery
 tags: [gallery]
 modified: 9-14-2019
-comments: false
+comments: true
 gallery:
   - url: /assets/images/1.jpg
     image_path: /assets/images/1.jpg
@@ -28,6 +28,4 @@ gallery:
     alt: "placeholder image 5"
     title: "Image 5 title caption"    
 ---
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
