@@ -16,7 +16,7 @@ comments: false
 
 |     |      |**past**                                                               |
 |-----|----  |----------------------------------------------------------------------------------|
-|2019 |Spring| **Advanced Programming**, Mathematics, Alavi Eslami High School |
+|2019 |Spring| **Advanced Programming**, Computer Sceince Department, IUST, Tehran, Iran |
 |-----|----  |----------------------------------------------------------------------------------|
-|2019 |Fall  | **Fundamental of Computer and Programming**, Mathematics, Alavi Eslami High School |
+|2019 |Fall  | **Fundamental of Computer and Programming**, Computer Sceince Department, IUST, Tehran, Iran |
 
