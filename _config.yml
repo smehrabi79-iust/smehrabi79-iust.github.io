@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "سحر مهرابی"
+title                    : "Sahar Mehrabi"
 title_separator          : "-"
 name                     : "Sahar Mehrabi" 
 description              : "Welcome to my web site."
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sahar Mehrabi"
+  name             : "سحر مهرابی"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : دانشجوی مهندسی کامپیوتر دانشگاه علم و صنعت ایران. اهل مطالعه، مشتاق یادگیری و یاد دادن به دیگران. 
   location         : "تهران"
