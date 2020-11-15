@@ -4,11 +4,11 @@ author_profile: true
 permalink: /classmates/
 title: My classmates in university
 tags: [classmates]
-modified: 4-10-2019
+modified: 11-15-2020
 comments: true
 ---
 
-### همکلاسی ها
+### هم دانشگاهی ها
 * [شهرزاد آذری آزاد](https://shahrzadazari.github.io)
 * [محمد مهدی جاوید](https://MohammadMahdiJavid.github.io)
 * [امیرحسین سماوات](https://amirsmvt.github.io)

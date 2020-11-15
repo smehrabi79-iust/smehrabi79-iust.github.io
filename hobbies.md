@@ -4,11 +4,15 @@ author_profile: true
 permalink: /hobbies/
 title: Hobbies
 tags: [Hoby]
-modified: 9-14-2019
+modified: 11-15-2020
 comments: false
 ---
 
 
-* [Sololearn](https://www.sololearn.com/)
+* Reading
+* Cooking
+* Teaching
+* [2048 GAME](https://2048game.com/)
+
 
 

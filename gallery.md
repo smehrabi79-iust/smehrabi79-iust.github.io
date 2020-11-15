@@ -1,10 +1,10 @@
 ---
 layout: single
 author_profile: true
-permalink: /gallery/
-title: Gallery
-tags: [gallery]
-modified: 9-14-2019
+permalink: /photos/
+title: Photos
+tags: [photos]
+modified: 11-15-2020
 comments: true
 gallery:
   - url: /assets/images/1.jpg
